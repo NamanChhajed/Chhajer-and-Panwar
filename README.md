@@ -25,6 +25,6 @@ This project was created to practice frontend web development concepts and build
 ## 👨‍💻 Author
 **Naman Chhajer**  
 Full Stack Web Developer Intern  
-Portfolio: https://namanchhajed.netlify.app  
+Portfolio: https://namanchhajer.netlify.app  
 GitHub: https://github.com/yourusername
 
